@@ -153,7 +153,6 @@ shape = SubResource("CircleShape2D_6uie5")
 [node name="Camera2D" type="Camera2D" parent="." unique_id=482951856]
 
 [node name="Gun" parent="." unique_id=1810494907 instance=ExtResource("3_xrodo")]
-visible = false
 position = Vector2(-30, -30)
 
 [node name="HurtBox" type="Area2D" parent="." unique_id=549307226]

@@ -12,3 +12,5 @@ res://necromancer.tscn
 res://necromancer.gd
 res://soldier_player.gd
 res://soldier_player.tscn
+res://orc_mob.tscn
+res://orc_mob.gd
