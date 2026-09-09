@@ -1,2 +1,12 @@
-res://player.tscn
 res://player.gd
+res://player.tscn
+res://2D_Game.tscn
+res://mob.tscn
+res://mob.gd
+res://gun.gd
+res://gun.tscn
+res://bullet.gd
+res://bullet.tscn
+res://2d_game.gd
+res://necromancer.tscn
+res://necromancer.gd
