@@ -1,6 +1,6 @@
 CollisionShape2D
-CharacterBody2D
 AnimatedSprite2D
+CharacterBody2D
 AnimationPlayer
 Sprite2D
 Label
