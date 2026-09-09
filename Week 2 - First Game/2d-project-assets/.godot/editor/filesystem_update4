@@ -1,16 +1,5 @@
-res://player.gd
-res://player.tscn
-res://2D_Game.tscn
-res://mob.tscn
-res://mob.gd
-res://gun.gd
 res://gun.tscn
-res://bullet.gd
 res://bullet.tscn
-res://2d_game.gd
-res://necromancer.tscn
-res://necromancer.gd
 res://soldier_player.gd
 res://soldier_player.tscn
-res://orc_mob.tscn
-res://orc_mob.gd
+res://mob.gd

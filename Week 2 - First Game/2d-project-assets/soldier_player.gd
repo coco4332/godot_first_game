@@ -11,7 +11,7 @@ func _physics_process(delta: float) -> void:
 	move_and_slide()
 	
 	if velocity.length() > 0.0:
-		%Soldier.play("walk")
+		%Soldier.play("attack")
 	else:
 		%Soldier.play("idle")
 	
